@@ -9,7 +9,8 @@ This workshop is primarily hands-on practice with **Taguette** in order to learn
 ** 5-10 minutes.**<br>
 - Create a Powtoon account by selecting **Try it for free** and adding your email address.
 - Next you will receive an email confirmation to confirm your account **Click confirm and continue**, you will then get another email with instructions to create your first video. 
-<img src="" style="width:220px;"> 
+<img src="images/powtoon-02.png" style="width:220px;"> 
+
 Optional:
 - Watch this video on [Powtoon for Teachers tutorial](https://www.youtube.com/watch?v=ypLODMIpGic){:target="_blank"}
 
