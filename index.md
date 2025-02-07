@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/powtoon-logo.png" style="float:right;width:200px;" alt="logo of the powtoon tool">
 
-# Powtoon for Education (Use Regular Case Like this)
+# Powtoon for Education 
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
