@@ -6,31 +6,28 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Powtoon for Education (Use Regular Case Like this)
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 15 min
+- Hands-on activities: 60-90 min
 
-## Why TOOL NAME HERE? 
+## Why Powtoon? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Powtoon](https://www.powtoon.com/){:target="_blank"} is a powerful tool for education, offering engaging and interactive content creation with animated videos and presentations. Its user-friendly design allows educators to easily produce professional-looking animations without technical expertise. By incorporating visuals, animations, and voiceovers, Powtoon caters to different learning styles, making lessons more accessible and enjoyable for students. This versatility helps keep students’ attention and enhances their understanding of complex concepts.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+The tool also fosters creativity, allowing students to create their own animations, which promotes problem-solving and teamwork in collaborative projects. Powtoon offers customizable templates and scenes that can be tailored to specific lesson objectives, making it ideal for diverse subjects and teaching approaches. In addition, it serves as a great alternative to traditional presentations, providing dynamic visuals and sound effects to keep students engaged.
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+For distance learning, Powtoon is especially beneficial, making remote lessons more interactive and impactful. With its accessibility across devices and platforms, Powtoon supports both in-person and online education, making it an invaluable resource for teachers and students alike. Its ability to combine fun, creativity, and effective learning makes it a standout tool in modern education.
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
+## Learning objectives 
+At the end of this workshop, you and/or your students will be able to:
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+1.	Create Engaging Content: Students will learn to design and produce animated videos or presentations using Powtoon to effectively communicate ideas, demonstrate understanding, and present information.
+2.	Enhance Digital Literacy: Students will develop digital skills by using Powtoon’s features, including animations, voiceovers, and editing tools, improving their ability to create multimedia presentations.
+3.	Promote Creativity and Innovation: Students will apply their creativity to produce unique and original animated content, enhancing their problem-solving and critical thinking skills.
+4.	Apply Storytelling Techniques: Students will practice structuring information into clear narratives, using animation and visuals to tell a compelling story that engages their audience.
+5.	Use Technology for Learning: Students will learn how to integrate technology into their academic work by using Powtoon to enhance their research, projects, and presentations.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
-
-At the end of this workshop, you will be able to:
-
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
