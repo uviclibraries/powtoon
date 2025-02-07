@@ -3,8 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/powtoon-logo.png" style="float:right;width:180px;" alt="logo of the powtoon tool">
+<img src="images/powtoon-logo.png" style="float:right;width:200px;" alt="logo of the powtoon tool">
 
 # Powtoon for Education (Use Regular Case Like this)
 
