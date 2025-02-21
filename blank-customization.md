@@ -20,18 +20,19 @@ parent: Workshop Activities
 
 **Adding media**
 9.	Download [this video](http://bit.ly/dsc-goat-video){:target="_blank"} to your computer, or use a video of your own. 
-10.	Next, select **Add video** and click **upload**
+10.	Next, select **Video** and click **upload video**
 11. From your downloaded video. Select the video and click **open**.  
 12.	 A message will pop up saying **video is longer than slide**, just click **trim video** to make it the same length.
 13.	You have successfully uploaded your own media and created your own template. 
-Customize 
-14.	I will remove the shapes on the first slide by dragging my cursor across and clicking the backspace key. 
-15.	You can change and add your own **props** by clicking that menu
-16.	You can also modify the text by clicking the textbox and writing **Goats as pets** for example
-17.	Feel free to move objects around objects and modify graphics by clicking on **shapes to remove and the right tool bar to add new shapes, props and textboxes. 
-a.	If you are looking for particular shapes or props use the search bar and type what you are looking for, example search farm in props and find free images or heart in shapes
-18.	You have modified your slide to suit your needs. 
+14. You can repeat the same steps 9-13 but instead with your own image by clicking **Images** and **Upload Images**. 
 
+**Customize**
+- I will remove the shapes on the first slide by dragging my cursor across and clicking the backspace key.
+- You can change and add your own **props** by clicking that menu
+- You can also modify the text by clicking the textbox and writing **Goats as pets** for example
+- Feel free to move objects around objects and modify graphics by clicking on **shapes to remove and the right tool bar to add new shapes, props and textboxes. 
+- If you are looking for particular shapes or props use the search bar and type what you are looking for, example search farm in props and find free images or heart in shapes
+- You have modified your slide to suit your needs. 
 
 **UPDATE**
 [NEXT STEP: Update](update.html){: .btn .btn-blue }
