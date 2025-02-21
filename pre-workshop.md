@@ -6,7 +6,7 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with **Powtoon** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-** 5-10 minutes.**<br>
+**5-10 minutes**<br>
 - Create a Powtoon account by selecting **Try it for free** and adding your email address.
 - Next you will receive an email confirmation to confirm your account **Click confirm and continue**, you will then get another email with instructions to create your first video. 
 <img src="images/powtoon-01.png" style="width:300px"> 
