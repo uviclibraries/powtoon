@@ -17,7 +17,7 @@ parent: Workshop Activities
 8.	Click + sign (on left side) to add more slides and repeat the previous steps. We will start to work with just 2 slides, but feel free to add more.
 
 **Adding media**
-9.	Download [this video](http://bit.ly/dsc-goat-video){:target="_blank"} to your computer, or use a video of your own. https://web.uvic.ca/~rmccue/goats.mp4
+9.	Download [this video](http://bit.ly/dsc-goat-video){:target="_blank"} to your computer, or use a video of your own. 
 10.	Next, select **Add video** and click **upload**
 11.	From your downloaded video (or wherever you stored the video you wish to use). Select the video and click **open**.  
 12.	 A message will pop up saying **video is longer than slide**, just click **trim video** to make it the same length.
