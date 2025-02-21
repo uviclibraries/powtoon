@@ -11,6 +11,7 @@ parent: Workshop Activities
 3.	It will then ask you to select among options such as “animation, video, whiteboard or cartoon.” For the purpose of this workshop, we will select **Whiteboard**. 
 4.	Open Scenes on the right side bar, then Select **Tech and Web** for the scene layout. 
 a.	Remember that you want to select a **free version** and not a PRO or EDU template (both these options will have a watermark on the background). To find options click **search all looks** and select one with no mini logo on it.For example (see photo).
+<img src="images/free-template.png" style="float:right;width:200px;" alt="Free Template">
 
 6.	Select a template of your choice and click the **X** on Search bar that says Tech & Web.
 7.	At the top of the bar under the search option, you should be able to click **save current scene**
