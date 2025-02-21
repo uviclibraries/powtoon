@@ -12,7 +12,7 @@ During this activity, you will be able to create a Powtoon short animation to ma
 2.	Next you will receive an email confirmation to confirm your account **Click confirm and continue**, you will then get another email with instructions to create your first video. 
 3.	Under the **Start a new Powtoon with**click **choose a template**
 4.	On the right-hand side select the **filter button** and then click **free** and click **show templates**. 
-  - Note if you just signed up for Powtoon you likely have a Pro trial, but for the sake of this activity and accessibility we will work only with Free features.
+  - Note if you just signed up for Powtoon you likely have a Pro trial, but for the sake of this activity and accessibility; we will work only with Free features.
 5.	 Select teacher intro template, if you do not see it right away you can search it in the right search bar. 
 6.	Click **Edit in studio**
 
