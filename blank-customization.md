@@ -8,6 +8,7 @@ parent: Workshop Activities
 <img src="images/free-template.png" style="float:right;width:160px;" alt="Free Template Scenes">
 1.	On the left side menu, select **blank**
 2.	At the top of the page, create a new video option will appear. Select **16:9 Horizontal** to create a Slide show presentation size.
+<img src="images/blank-slide.png" style="width:160px;" alt="Free Template Scenes">
 3.	It will then ask you to select among options such as “animation, video, whiteboard or cartoon.” For the purpose of this workshop, we will select **Whiteboard**.<br> 
 4.	Open Scenes on the right side bar, then Select **Tech and Web** for the scene layout.
 5.	Remember that you want to select a **free version** and not a PRO or EDU template (both these options will have a watermark on the background). To find options click **search all looks** and select one with no mini logo on it.For example (see photo).
@@ -19,7 +20,7 @@ parent: Workshop Activities
 **Adding media**
 9.	Download [this video](http://bit.ly/dsc-goat-video){:target="_blank"} to your computer, or use a video of your own. 
 10.	Next, select **Add video** and click **upload**
-11.	From your downloaded video. Select the video and click **open**.  
+11. From your downloaded video. Select the video and click **open**.  
 12.	 A message will pop up saying **video is longer than slide**, just click **trim video** to make it the same length.
 13.	You have successfully uploaded your own media and created your own template. 
 Customize 
