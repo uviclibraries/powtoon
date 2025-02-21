@@ -19,7 +19,7 @@ parent: Workshop Activities
 **Adding media**
 9.	Download [this video](http://bit.ly/dsc-goat-video){:target="_blank"} to your computer, or use a video of your own. 
 10.	Next, select **Add video** and click **upload**
-11.	From your downloaded video (or wherever you stored the video you wish to use). Select the video and click **open**.  
+11.	From your downloaded video. Select the video and click **open**.  
 12.	 A message will pop up saying **video is longer than slide**, just click **trim video** to make it the same length.
 13.	You have successfully uploaded your own media and created your own template. 
 Customize 
