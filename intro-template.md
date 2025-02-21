@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intro Template
+title: 2- Intro Template
 nav_order: 2
 parent: Workshop Activities
 ---
