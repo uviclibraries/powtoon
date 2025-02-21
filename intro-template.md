@@ -8,7 +8,7 @@ parent: Workshop Activities
 During this activity, you will be able to create a Powtoon short animation to make an introduction video, overview of sidebar navigation, customize text, customize backgrounds, learn to add characters.
 
 ## Activity 1: Creating an Introduction template
-1.	Create a Powtoon account by selecting **sign up ** and adding your email address.
+1.	Create a Powtoon account by selecting **sign up** and adding your email address.
 2.	Next you will receive an email confirmation to confirm your account **Click confirm and continue**, you will then get another email with instructions to create your first video. 
 3.	Under the **Start a new Powtoon with**click **choose a template**
 4.	On the right-hand side select the **filter button** and then click **free** and click **show templates**. 
@@ -23,7 +23,7 @@ During this activity, you will be able to create a Powtoon short animation to ma
 Customize your template: Text
 7.	First select the text and replace the **(your name)** with your name. I will be replacing all text so that the animation is in French replacing Hello with Bonjour and replacing my name is with Je m’appelle. To select text you must just click on the textbox.
 8.	If you want to add more text, select **text (feature sidebar) and select **add subtitle**
-9.	Next write something, I will write **Welcome grade 1’s).
+9.	Next write something, I will write **Welcome grade 1’s)**.
 10.	Now we will change the color of our text by double-clicking that textbox or clicking and selecting the settings button. 
 11.	Under the settings you can change the font, colour effects etc.
 12.	First change the color to white by clicking **color**
