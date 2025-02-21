@@ -8,7 +8,7 @@ parent: Workshop Activities
 <img src="images/free-template.png" style="float:right;width:160px;" alt="Free Template Scenes">
 
 1.	On the left side menu, select **blank** <br>  
-<img src="images/blank-slides.png" style="float:right;width:160px;" alt="Blank slide adding">
+<img src="images/blank-slide.png" style="float:right;width:160px;" alt="Blank slide adding">
 2.	At the top of the page, create a new video option will appear. Select **16:9 Horizontal** to create a Slide show presentation size.
 3.	It will then ask you to select among options such as “animation, video, whiteboard or cartoon.” For the purpose of this workshop, we will select **Whiteboard**.<br> 
 4.	Open Scenes on the right side bar, then Select **Tech and Web** for the scene layout.
