@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 # Introduction Template
-During this activity, you will be able to create a Powtoon short animation to make an introduction, overview of sidebar navigation, customize text, customize backgrounds, learn to add characters.
+During this activity, you will be able to create a Powtoon short animation to make an introduction video, overview of sidebar navigation, customize text, customize backgrounds, learn to add characters.
 
 ## Activity 1: Creating an Introduction template
 1.	Create a Powtoon account by selecting **sign up ** and adding your email address.
@@ -14,8 +14,9 @@ During this activity, you will be able to create a Powtoon short animation to ma
 4.	On the right-hand side select the **filter button** and then click **free** and click **show templates**. 
   - Note if you just signed up for Powtoon you likely have a Pro trial, but for the sake of this activity and accessibility; we will work only with Free features.
 5.	 Select teacher intro template, if you do not see it right away you can search it in the right search bar. 
-6.	Click **Edit in studio**
+6.	Click **Edit in studio**<br>
 
+<img src="images/right-sidebar.png" style="float:right;width:200px;" alt="Right Sidebar">
 **Overview editing features sidebar.**
 -	Include a photo of right sidebar with descriptions
 Customize your template: Text
