@@ -17,7 +17,8 @@ During this activity, you will be able to create a Powtoon short animation to ma
 6.	Click **Edit in studio**<br>
 
 <img src="images/right-sidebar.png" style="float:right;width:200px;" alt="Right Sidebar">
-**Overview editing features sidebar.**
+
+**Overview editing features sidebar**
 -	Include a photo of right sidebar with descriptions
 Customize your template: Text
 7.	First select the text and replace the **(your name)** with your name. I will be replacing all text so that the animation is in French replacing Hello with Bonjour and replacing my name is with Je m’appelle. To select text you must just click on the textbox.
@@ -38,7 +39,5 @@ Adding Characters:
 20.	We will add another character, by selecting **Characters** and clicking **Omnis**
 21.	Place your cursor over a character you like and select it based on a feeling such as **Happy** and drag and drop it onto your slide.
 
-
-**UPDATE**
 [NEXT STEP: Blank Customization](blank-customization.html){: .btn .btn-blue }
 
