@@ -4,8 +4,8 @@ title: 2-Customization
 nav_order: 3
 parent: Workshop Activities
 ---
-### Activity 2: Starting from a blank template (Blank Template: Customization with Media)
-<img src="images/free-template.png" style="float:right;width:200px;" alt="Free Template Scenes">
+### Activity 2: Starting from a blank template (Customization with Media)
+<img src="images/free-template.png" style="float:right;width:180px;" alt="Free Template Scenes">
 1.	On the left side menu, select **blank**
 2.	At the top of the page, create a new video option will appear. Select **16:9 Horizontal** to create a Slide show presentation size.
 3.	It will then ask you to select among options such as “animation, video, whiteboard or cartoon.” For the purpose of this workshop, we will select **Whiteboard**.<br> 
