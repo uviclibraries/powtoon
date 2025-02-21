@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 ### Activity 2: Starting from a blank template (Customization with Media)
-<img src="images/free-template.png" style="float:right;width:180px;" alt="Free Template Scenes">
+<img src="images/free-template.png" style="float:right;width:160px;" alt="Free Template Scenes">
 1.	On the left side menu, select **blank**
 2.	At the top of the page, create a new video option will appear. Select **16:9 Horizontal** to create a Slide show presentation size.
 3.	It will then ask you to select among options such as “animation, video, whiteboard or cartoon.” For the purpose of this workshop, we will select **Whiteboard**.<br> 
@@ -13,7 +13,7 @@ parent: Workshop Activities
 5.	Remember that you want to select a **free version** and not a PRO or EDU template (both these options will have a watermark on the background). To find options click **search all looks** and select one with no mini logo on it.For example (see photo).
 6. Select a template of your choice and click the **X** on Search bar that says Tech & Web. See images for Scenes chosen in this workshop. <br> <img src="images/example-powtoon.png" alt="Free Scenes example 2">
 7.	At the top of the bar under the search option, you should be able to click **save current scene**
-<img src="images/save-scenes.png" style="float:right;width:200px;" alt="Save current Scenes button">
+<img src="images/save-scenes.png" style="float:right;width:180px;" alt="Save current Scenes button">
 8.	Click + sign (on left side) to add more slides and repeat the previous steps. We will start to work with just 2 slides, but feel free to add more.
 
 **Adding media**
