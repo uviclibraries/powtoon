@@ -34,6 +34,5 @@ parent: Workshop Activities
 - If you are looking for particular shapes or props use the search bar and type what you are looking for, example search farm in props and find free images or heart in shapes
 - You have modified your slide to suit your needs. 
 
-**UPDATE**
-[NEXT STEP: Update](update.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 
